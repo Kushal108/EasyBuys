@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-md-6 login-form-2">
                     <div class="main-title">
-                        <h3>Welcome to easybuys</h3>
+                        <h3>Welcome to Easybuys</h3>
                     </div>
 
                     <form>
